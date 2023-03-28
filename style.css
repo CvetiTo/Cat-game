@@ -24,8 +24,9 @@ input{
     color: #545e8d;
     background-color: #e2e2f1;
 }
+
 .game{
-    background-image: url('https://cdn.pixabay.com/photo/2013/07/12/17/49/landscape-152502_960_720.png');
+    background-image: url('/images/landscape.webp');
     width: 100vw;
     height: 100vh;
     background-position: center;
